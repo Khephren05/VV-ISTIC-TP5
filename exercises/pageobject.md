@@ -7,7 +7,7 @@ The image below shows the poll page of the [Simba Organizer](https://github.com/
 Write in this document the interface of a page object class for this page.
 
 ## Answer
-[Mes réponses](TP_SELENIUM_WALKER_V2/src/main/java/exerciceDeux/PageObjectModell.java)
+[Mes réponses](../TP_SELENIUM_WALKER_V2/src/main/java/exerciceDeux/PageObjectModell.java)
 
 package exerciceDeux;
 

@@ -13,7 +13,7 @@ Include the code of the walker and the snapshot in this document.
 
 ## Answer
 
-[Lien vers le code](TP_SELENIUM_WALKER_V2/src/main/java/ExerciceUn)
+[Lien vers le code](../TP_SELENIUM_WALKER_V2/src/main/java/ExerciceUn)
 
 ```java
 package ExerciceUn;
